@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PlantPalApp</string>
+    <string name="welcome_string">Welcome to PlantPal</string>
+    <string name="username_string">Username</string>
+    <string name="password_string">Password</string>
+    <string name="login_string">Login</string>
+    <string name="signup_string">Sign Up</string>
+    <string name="signup_instruction_string">Sign up to PlantPal</string>
+    <string name="addPlant_string">+</string>
+    <string name="plants_overview_string">My Plants</string>
+    <string name="newPlant_string">Your New Plant</string>
+    <string name="plantName_string">Name:</string>
+    <string name="purchased_string">Purchased: (MM/YYYY)</string>
+    <string name="placement_string">Placement:</string>
+    <string name="watering_string">Watering:</string>
+    <string name="size_string">Size: </string>
+    <string name="backToOverview_string">Back to Overview</string>
+    <string name="addPlantToDatabase_string">Add!</string>
+    <string name="go_back">Overview</string>
+    <string name="editText_errorMessage">Please complete</string>
+    <string name="cab_delete">Delete</string>
+</resources>
