@@ -1,10 +1,6 @@
 # PlantPalApp
 An app that helps you keep track of your plants. 
 
-# Installation
-
-Clone this repository and import into Android Studio.
-
 # Emulator
 
 I worked with the Emulator: Resizable (Experimental) API UpsideDownCake
